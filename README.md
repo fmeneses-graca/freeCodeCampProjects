@@ -1,6 +1,6 @@
 # freeCodeCampProjects
  
-This repository is dedicated to store all the code developed to complete freeCodeCamp certifications.
+This repository is dedicated to storing all the code developed to complete freeCodeCamp certifications.
 
 Code uploaded so far:
 
@@ -11,4 +11,4 @@ Code uploaded so far:
  - Telephone Number Validator
  - Cash Register
 
-To be continued...
+To be continued
