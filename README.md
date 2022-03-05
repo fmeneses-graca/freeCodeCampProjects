@@ -11,4 +11,4 @@ Code uploaded so far:
  - Telephone Number Validator
  - Cash Register
 
-To be continued
+To be continued...
