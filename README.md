@@ -1,6 +1,6 @@
 # freeCodeCampProjects
  
-This repository is dedicated to storing all the code developed to complete freeCodeCamp certifications.
+This repository is dedicated to all the programs and applications developed in order to complete the freeCodeCamp certifications.
 
 Code uploaded so far:
 
